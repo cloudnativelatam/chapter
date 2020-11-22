@@ -29,4 +29,5 @@ Los objetivos del Capítulo de Latinoamérica son:
 | Domingo Suarez Torres | Mexico | [t: @domix](https://twitter.com/domix)
 | Marcelo Klein | Argentina | (@)
 | Paulo Simoes | Brazil | [t: @pasimoes](https://www.twitter.com/pasimoes)
-| Sergio Mendez | Guatemala | [t: @sergioarmgpl](https://twitter.com/sergioarmgpl) 
+| Sergio Mendez | Guatemala | [t: @sergioarmgpl](https://twitter.com/sergioarmgpl)
+| Jose Adan Ortiz | Chile | [t: @joseadanof](https://twitter.com/joseadanof)
