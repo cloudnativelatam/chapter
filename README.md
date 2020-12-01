@@ -35,4 +35,4 @@ Las metas del Capítulo de Latinoamérica son:
 | Marcelo Klein | Argentina | (@)
 | Paulo Simoes | Brazil | [t: @pasimoes](https://www.twitter.com/pasimoes)
 | Sergio Mendez | Guatemala | [t: @sergioarmgpl](https://twitter.com/sergioarmgpl)
-| Jose Adan Ortiz | Chile | [t: @joseadanof](https://twitter.com/joseadanof)
+| José Adán Ortiz | Chile | [t: @joseadanof](https://twitter.com/joseadanof)
