@@ -12,7 +12,7 @@ Las metas del Capítulo de Latinoamérica son:
 ## Actividades
 1- Difusión
 - Redes Sociales
-- Organización de meetups, talleres, webinars, etc., ya sea presenciales o en línea
+- Organización de meetups, talleres, webinars, etc., ya sea presenciales (Bajo rigurosas medidas de seguridad por la pandemia mundial) o en línea
 
 2- Capacitación
 - Traducir contenido a español y portugues
