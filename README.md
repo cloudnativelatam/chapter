@@ -7,7 +7,7 @@ Las metas del Capítulo de Latinoamérica son:
 - Aumentar la participación en la comunidad de usuarios y desarrolladores de CNCF
 - Promover las contribuciones de nuestra región a los proyectos de CNCF.
 - Proporcionar una plataforma de orientación, soporte y colaboración para la pronta adopción de tecnologías *Open Source Cloud Native* dirigidas por CNCF.
-- Promover la adopción de tecnologías cloud native en el ámbito académico involucrando estudiantes y universidades a nuestras actividades
+- Promover la adopción de tecnologías *Cloud Native* en el ámbito académico involucrando estudiantes y universidades a nuestras actividades
 
 ## Actividades
 1- Difusión
