@@ -26,7 +26,7 @@ Las metas del Capítulo de Latinoamérica son:
 
 4- Planeación
 - Calendarización de eventos mensuales, anuales, etc
-- Calendarización de eventos regionales en latinoamerica
+- Calendarización de eventos regionales en Latinoamérica
 
 ## Responsables
 | Representante | Pais | Medios Sociales
