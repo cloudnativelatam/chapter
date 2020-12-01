@@ -22,7 +22,7 @@ Las metas del Capítulo de Latinoamérica son:
   
 3- Desarrollo
 - Creación de contenidos en distintos niveles relacionados a tecnologías *Cloud Native*
-- Creación de programas de siguiento para involucrar y desarrollar habilidades para personas en latinoamerica
+- Creación de programas de seguimiento para involucrar y desarrollar habilidades para personas en Latinoamérica
 
 4- Planeación
 - Calendarización de eventos mensuales, anuales, etc
