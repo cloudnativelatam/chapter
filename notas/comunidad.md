@@ -6,6 +6,9 @@ Zoom Link: [https://zoom.us/j/97829166867?pwd=Q0xoYVhNRlhWWXVSMG1Xdkk5S0N1UT09](
 
 ## Asistentes:
 * Leonardo Murillo (Costa Rica)
+* Victor Morales
+* Sergio Méndez (Guatemala)
+* Gerardo Almario (Colombia)
 
 ## Agenda
 * Estado Action Items Reunión Pasada
@@ -18,8 +21,60 @@ Zoom Link: [https://zoom.us/j/97829166867?pwd=Q0xoYVhNRlhWWXVSMG1Xdkk5S0N1UT09](
     * MVP de lanzamiento
     * Fecha tentativa de lanzamiento
     * Definición de tareas
+
 * Coordinación con otras iniciativas en español
     * Propuesta de organización
+
+## Action Items
+
+* (Sergio) Agregar a Repo de LatAm sección de estudiantes
+* (Grupo de Trabajo Estudiantes) Ubicar profesores que den cursos relacionados en instituciones
+    * Definir objetivos generales
+    * Sergio se encargará de coordinar definicion de alcance de la iniciativa y de requisitos de apoyo de la comunidad (tareas)
+    * Invitar a profesores para presentar proyecto (Finales de Abril)
+        * Que se requiere para producir esta invitacion?
+        * Definir presentación/contenido/alcance para MeetUp
+    * Contactos:
+        * Ingeniero Daniel Burbano Profesor Universidad de la Sabana - materia Infraestructura de TI 9 semestre (Colombia)
+* (Grupo de Trabajo Eventos) Coordinar participacion cruzada entre comunidades
+    * (Victor) Definir objetivos generales
+    * Usar grupos de discusión, para aminorar carga.
+    * Cloud-Native Mexico Meetup (Mar 23, 2021) - https://www.youtube.com/watch?v=Gi_IBnyiAgw
+* (Victor) Buscar actualización de estado de logo/imágen
+* (Lanzamiento) Definir plan de lanzamiento (Leo) - 17 de Abril (Lanzamiento Previo)
+    * Definir misión y visión
+    * Logo/Imagen
+    * Lanzamiento por redes sociales (Leo)
+        * Crear youtube, twitter, linkedin
+    * Evento de lanzamiento. KCD?
+        * Un meetup o varios meetups
+        * Identificar invitados especiales (Rael, Santiago Torres (MX))
+        * Organizadores de comunidad seran presentadores
+
+
+## Notas
+* Sergio tuvo reunion con Chris Aniszczyk (CTO de CNCF), coordinar reunión de seguimiento
+* Crear discusión para definir Visión y Objetivos (Leo) - usar como base lo que existe actualmente en el repo.
+* Grupo de Trabajo de Estudiantes
+    * Presentar proyecto que ejecuto con estudiantes en otras comunidades
+    * Aprovechar KubeCon NA para presentar charla
+
+> Propuesta generada por Cloud-Native El Salvador para KubeCon 2021, puede ser utilizada para otras propuestas
+### From Zero to Hero - Outcomes from Cloud-Native El Salvador community creation
+
+#### Session Description
+
+People in El Salvador, Honduras and Guatemala leave the region for two reasons: security and lack of opportunities.  We want people in those countries to have access to Cloud Native technologies. Our mission is to build the basis to inspire local talent.
+
+During the last few months, we have created a virtual space offering resources which help enthusiasts to understand and contribute to open source projects. The pandemic brought many challenges to local preexisting communities but this wasn't our case, we have to opportunity to establish the community in a region where Cloud computing technologies are barely known.  This talk will share lessons that we learned in our journey to establish a local technical community remotely.
+
+#### Benefits to the Ecosystem
+
+Talent exist around the world, even today in this interconnected world some people cannot access to cutting edge knowledge. Having the assumption that professors and universities are continuously updating their curricula is something that barely happens in some places. As result, many new grads face a different reality in their jobs. 
+
+Local communities have proven an organic development process for technical enthusiasts and entrepreneurs. Those communities are mostly started by a local who had opportunity to use/work with new technologies, but what happens when there is no one who has had the opportunity to discover them? how those technologies can be used there while they're relevant? Is still the knowledge a privileged resource?
+
+Using video conferencing tools within a set of best practices can help to develop local talent around the world. Any project can benefit the existing diversity offered by Less-Developed Countries.
 
 
 # Marzo 5, 2021
